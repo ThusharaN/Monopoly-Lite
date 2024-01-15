@@ -1,7 +1,7 @@
 # Monopoly lite using MySQL
 
 ## <u>About the project</u>
-We model the gameplay of a simplified version of Monopoly using MySQL. The data definition and manipulation requirements of the problem domain have been expressed in terms of an entity-relationship diagram.
+We model the gameplay of a simplified version of Monopoly by automating actions using MySQL, utilizing multiple stored procedures and views to streamline different steps within the gameplay.
 
 
 ## <u>Monopoly: Modelling the gameplay</u>
